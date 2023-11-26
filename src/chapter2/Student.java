@@ -1,7 +1,7 @@
 package chapter2;
 
 public class Student {
-    enum Gender {
+    public enum Gender {
         MALE, FEMALE, OTHERS
     }
 
