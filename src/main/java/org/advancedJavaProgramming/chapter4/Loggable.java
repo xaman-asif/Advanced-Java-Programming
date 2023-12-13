@@ -15,7 +15,7 @@ public interface Loggable {
 
   // if a default method has too many codes we can extract
   // them out to a private method
-  private String formatMessage(String message, Object ...args) {
+  default String formatMessage(String message, Object... args) {
     StringBuilder sbMessage = new StringBuilder(message);
 
     for (Object arg : args) {

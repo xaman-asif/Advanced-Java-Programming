@@ -1,6 +1,5 @@
 package org.advancedJavaProgramming.chapter3.methodreference;
 
-import chapter2.Student;
 import java.util.ArrayList;
 import java.util.function.BiFunction;
 import java.util.function.Function;
