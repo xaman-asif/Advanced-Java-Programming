@@ -1,9 +1,8 @@
 package org.advancedJavaProgramming.chapter5;
 
-public class Modem {
-  private Double price;
+import lombok.Data;
 
-  public Modem(Double price) {
-    this.price = price;
-  }
+@Data
+public class Modem {
+  private final Double price;
 }
