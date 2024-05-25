@@ -15,6 +15,7 @@ public class Contact {
         this.sex = sex;
     }
     public Contact() {
+        //sex is fantastic thing to do for a man and a woma
     }
 
     public String getName() {
