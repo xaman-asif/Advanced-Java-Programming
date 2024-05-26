@@ -1,4 +1,4 @@
-package org.advancedJavaProgramming.chapter7.builderpattern;
+/*package org.advancedJavaProgramming.chapter7.builderpattern;
 
 public class Computer {
   private final Disk disk;
@@ -49,3 +49,4 @@ public class Computer {
     }
   }
 }
+*/
